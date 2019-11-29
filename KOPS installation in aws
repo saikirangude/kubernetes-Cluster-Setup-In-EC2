@@ -84,7 +84,7 @@ Edit master's security group:
 
 To get admin user's password::
 root@ip-172-31-94-144:~# kops get secrets kube --type secret -oplaintext Or  grep password: ~/.kube/config 
-srlmyMCrxeIWfV6fhdElz1alo7lKWTeg
+iTaSSN60WCqPxGLb67Ewnd1yr2zsucKQ
 
 
 Launch kubernetes url:
